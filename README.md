@@ -46,8 +46,6 @@
 =======
 
 ##### Play games ?
-
->>>>>>> 85f8670b93d93a06e9f2409ca3c227de1a188b2f
 <img src="https://raw.githubusercontent.com/Agunnnnn/Agunnnnn/output/snake.svg" alt="Snake animation" />
 
 ###
