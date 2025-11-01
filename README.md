@@ -58,8 +58,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Agunnnnn/Agunnnnn/output/pacman-contribution-graph.svg">
 </picture>
 
-<<<<<<< HEAD
-###
-=======
-###
->>>>>>> 85f8670b93d93a06e9f2409ca3c227de1a188b2f
