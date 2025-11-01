@@ -1,6 +1,8 @@
 # Hi there I'm Agunnnnn👋 
 ![Agunnnnn](BANNER2.png)
-![Morning_Chill](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWEzcDUwcmszbTl4dno1N29zMWRpMDR6cGN5MXR0YzR2eHBnaTU2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ttknk7M3d3UBEeZsii/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWEzcDUwcmszbTl4dno1N29zMWRpMDR6cGN5MXR0YzR2eHBnaTU2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ttknk7M3d3UBEeZsii/giphy.gif" alt="Morning Chill" width="400"/>
+</p>
 
 
 
