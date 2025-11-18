@@ -37,10 +37,6 @@
 - 📧 [Palaguna1501@gmail.com]
 
 
-###### My GitHub Stats
-![Agunnnnn GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agunnnnn&show_icons=true&theme=shadow_red)
-
-
 ##### Play games ?
 <img src="https://raw.githubusercontent.com/Agunnnnn/Agunnnnn/output/snake.svg" alt="Snake animation" />
 
