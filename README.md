@@ -30,7 +30,7 @@
 
 
 🌱 I’m currently learning
-- C++ And Phyton
+- C++, Python, Java, JavaScript, React, Tailwind, NodeJS, HTML, CSS
 - Fundamentals of **Data Science** — including data analysis, visualization, and basic machine learning concepts  
 
 💬 Ask me about 
