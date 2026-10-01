@@ -1,52 +1,44 @@
-# Hi there I'm Agunnnnn👋 
-![Agunnnnn](BANNER2.png)
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Palaguna</h1>
+<img src ="5.jpeg">
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWEzcDUwcmszbTl4dno1N29zMWRpMDR6cGN5MXR0YzR2eHBnaTU2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ttknk7M3d3UBEeZsii/giphy.gif" alt="Morning Chill" width="900"/>
+  <a href="https://komarev.com/ghpvc/?username=Agunnnnn">
+  </a>
 </p>
 
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
+## Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=FFFFFF" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FFFFFF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-111827?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-111827?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF" alt="C++" />
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logoColor=FFFFFF" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=FFFFFF" alt="Antigravity" />
+</p>
 
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=Agunnnnn&theme=dark" alt="Top language" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Agunnnnn/Agunnnnn/output/pacman.svg" alt="Pac-Man contribution graph" />
+</p>
 
-##### SKILSS
-<img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img src ="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src ="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/><img src ="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src ="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/><img src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src ="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-
-
-##### 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UrEyeessss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sp3ctree_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:palaguna1501@gmail.com) 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agunnnnn&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-🌱 I’m currently learning
-- C++, Python, Java, JavaScript, React, Tailwind, NodeJS, HTML, CSS
-- Fundamentals of **Data Science** — including data analysis, visualization, and basic machine learning concepts  
-
-💬 Ask me about 
-- Basic programming in C++ or Python  
-- Tips for starting as an IT student
-
-📫 How to reach me: 
-- 📧 [Palaguna1501@gmail.com]
-
-
-##### Play games ?
-<img src="https://raw.githubusercontent.com/Agunnnnn/Agunnnnn/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Agunnnnn/Agunnnnn/output/pacman-contribution-graph-dark.svg">
-</picture>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
