@@ -32,10 +32,6 @@
 </p>
 
 <p align="center">
-  <img src="https://stats.pphat.top/languages?username=Agunnnnn&theme=dark" alt="Top language" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Agunnnnn/Agunnnnn/output/pacman.svg" alt="Pac-Man contribution graph" />
 </p>
 
